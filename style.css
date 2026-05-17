@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #111827;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 40px;
+}
+
+h1 {
+  color: #60a5fa;
+  font-size: 48px;
+}
+
+h2 {
+  color: #93c5fd;
+  margin-top: 40px;
+}
+
+.intro {
+  font-size: 20px;
+}
+
+.project {
+  background-color: #1f2937;
+  padding: 20px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+a {
+  color: #60a5fa;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
